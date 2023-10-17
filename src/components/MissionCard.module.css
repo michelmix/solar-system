@@ -1,0 +1,22 @@
+.card {
+  background: rgba(24, 26, 37, 0.5);
+  border: 1px solid white;
+  border-radius: 17px;
+  height: 192px;
+  mix-blend-mode: hard-light;
+  text-transform: uppercase;
+  width: 496px;
+}
+
+.cardDiv {
+  display: flex;
+  justify-content: space-around;
+  text-transform: capitalize;
+}
+
+.title {
+  font-size: 20px;
+  font-weight: 300;
+  line-height: 120%;
+  margin-left: 10px;
+}
